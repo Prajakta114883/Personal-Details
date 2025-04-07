@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\praja\\source\\intership folder\\PersonalDetailSection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8BC225C-1AA5-4257-B937-0E6BD5C872AA}|PersonalDetailSection\\PersonalDetailSection.csproj|c:\\users\\praja\\source\\intership folder\\personaldetailsection\\personaldetailsection\\mydetails.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8BC225C-1AA5-4257-B937-0E6BD5C872AA}|PersonalDetailSection\\PersonalDetailSection.csproj|solutionrelative:personaldetailsection\\mydetails.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8BC225C-1AA5-4257-B937-0E6BD5C872AA}|PersonalDetailSection\\PersonalDetailSection.csproj|c:\\users\\praja\\source\\intership folder\\personaldetailsection\\personaldetailsection\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D8BC225C-1AA5-4257-B937-0E6BD5C872AA}|PersonalDetailSection\\PersonalDetailSection.csproj|solutionrelative:personaldetailsection\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\praja\\source\\intership folder\\PersonalDetailSection\\PersonalDetailSection\\StyleSheet.css",
+              "RelativeDocumentMoniker": "PersonalDetailSection\\StyleSheet.css",
+              "ToolTip": "C:\\Users\\praja\\source\\intership folder\\PersonalDetailSection\\PersonalDetailSection\\StyleSheet.css",
+              "RelativeToolTip": "PersonalDetailSection\\StyleSheet.css",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-07T15:07:32.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyDetails.html",
+              "DocumentMoniker": "C:\\Users\\praja\\source\\intership folder\\PersonalDetailSection\\PersonalDetailSection\\MyDetails.html",
+              "RelativeDocumentMoniker": "PersonalDetailSection\\MyDetails.html",
+              "ToolTip": "C:\\Users\\praja\\source\\intership folder\\PersonalDetailSection\\PersonalDetailSection\\MyDetails.html",
+              "RelativeToolTip": "PersonalDetailSection\\MyDetails.html",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwCgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-07T15:00:03.929Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
